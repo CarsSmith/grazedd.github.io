@@ -9,7 +9,7 @@ Hello! My name is Carson Smith, and I am a Computer Science student at Boise Sta
 * CS-HU-153
 * CS-HU-130
 
-### CS Classes I'm current enrolled in:
+### CS Classes I'm currently enrolled in:
 
 * CS321
 * CS253
