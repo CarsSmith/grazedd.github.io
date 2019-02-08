@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/GrazeDD/Graze.DD.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Carson Smith, and I am a Computer Science student at Boise State University. This page will be used to showcase my work throughout my Computer Science career, both within and outside of my school environment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CS Classes I've taken so far:
 
-### Markdown
+* CS121
+* CS221
+* CS-HU-153
+* CS-HU-130
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CS Classes I'm current enrolled in:
 
-```markdown
-Syntax highlighted code block
+* CS321
+* CS253
+* CS-HU-250
+* CS-HU-310
 
-# Header 1
-## Header 2
-### Header 3
+### Things coming up for the future of this page:
 
-- Bulleted
-- List
+- [x] Create a GitHub account and Pages.
+- [ ] Upload previous noteworthy school projects to GitHub
+- [ ] Finish the semester with great grades!
+- [ ] Get to work on a personal project over the summer!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GrazeDD/Graze.DD.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The page is WIP, so thanks for reading as much as you have!
