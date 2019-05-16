@@ -4,17 +4,20 @@ Hello! My name is Carson Smith, and I am a Computer Science student at Boise Sta
 
 ### CS Classes I've taken so far:
 
-* CS121
-* CS221
-* CS-HU-153
-* CS-HU-130
+* CS121 - Computer Science I
+* CS221 - Computer Science II
+* CS253 - Intro to Systems Programming
+* CS321 - Data Structures
+* CS-HU-153 - Navigating Computer Systems
+* CS-HU-130 - Foundational Values
+* CS-HU-250 - Intro to Version Control
+* CS-HU-271 - Agile Development
+* CS-HU-310 - Intro to Database Systems
 
 ### CS Classes I'm currently enrolled in:
 
-* CS321
-* CS253
-* CS-HU-250
-* CS-HU-310
+* CS421
+* CS230
 
 ### Things coming up for the future of this page:
 
