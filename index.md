@@ -53,4 +53,4 @@ Information:
 
 Github Repo: N/A
 
-Information: We were told to write both a pure-recursion based implementation of the classic [https://en.wikipedia.org/wiki/Knapsack_problem](Knapsack Problem), as well as a dynamic-programming based implementation. This was my first exposure to the concept of dynamic programming, and I was pretty proud of how it ended up turning out.
+Information: We were told to write both a pure-recursion based implementation of the classic [https://en.wikipedia.org/wiki/Knapsack_problem] (Knapsack Problem), as well as a dynamic-programming based implementation. This was my first exposure to the concept of dynamic programming, and I was pretty proud of how it ended up turning out.
