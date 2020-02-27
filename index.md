@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello! My name is Carson Smith, and I am a Computer Science student at Boise State University who will be graduating after the Summer of 2020. This page is used to outline my educational experience with coding/development, as well as any personal projects I've created over time.
+Hello! My name is Carson Smith, a Senior Computer Science student at Boise State University who will be graduating after the Summer of 2020. This page is used to outline my educational experience with coding/development, as well as any personal projects I've created over time.
 
 ### CS Classes I've taken so far:
 
@@ -43,14 +43,14 @@ Github Repo: N/A
 
 Information: This was a team-base implementation of a BTree. 
 
-* CS402 - Japanese/Chinese Character Flashcard iOS App and Other Projects
+* CS402 - Japanese/Chinese Character Drawing iOS App and Other Projects
 
 Github Repo: https://github.com/GrazeDD/CS402-Projects
 
-Information:
+Information: This was my first time getting experienced with programming in Swift, and I ended up creating something that I thought was pretty cool. The application I made utilized CoreData to store information about various Chinese/Japanese characters, that the user would have to draw on a custom-built implementation of a drawing view. The drawing they did would then be stored in the database, and they could check how much their drawings had improved over time.
 
 * CS421 - Dynamic Programming Implemenation of the 0-1 Knapsack Problem
 
 Github Repo: N/A
 
-Information: We were told to write both a pure-recursion based implementation of the classic (0-1 Knapsack Problem)[https://en.wikipedia.org/wiki/Knapsack_problem], as well as a dynamic-programming based implementation. This was my first exposure to the concept of dynamic programming, and I was pretty proud of how it ended up turning out.
+Information: We were told to write both a pure-recursion based implementation of the classic [https://en.wikipedia.org/wiki/Knapsack_problem](Knapsack Problem), as well as a dynamic-programming based implementation. This was my first exposure to the concept of dynamic programming, and I was pretty proud of how it ended up turning out.
