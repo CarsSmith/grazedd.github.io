@@ -45,7 +45,7 @@ Information: This was an ongoing implementation of a shell written in C. It requ
 
 ### CS402 - Japanese/Chinese Character Drawing iOS App
 
-Github Repo: https://github.com/GrazeDD/CS402-Projects/tree/master/Final
+Github Repo: [Here](https://github.com/GrazeDD/CS402-Projects/tree/master/Final)
 
 Information: This was my first time getting experienced with programming in Swift, and I ended up creating something that I thought was pretty cool. The application I made utilized CoreData to store information about various Chinese/Japanese characters, that the user would have to draw on a custom-built implementation of a drawing view. The drawing they did would then be stored in the database, and they could check how much their drawings had improved over time.
 
@@ -57,7 +57,7 @@ Information: We were told to write both a pure-recursion and dynamic-programming
 
 ### CS354 - Sudoku Puzzle Solver and GUI in Pure Ruby
 
-Github Repo: https://github.com/GrazeDD/Ruby and https://github.com/GrazeDD/Ruby/blob/master/Other%20Programs/sudoku_solver.rb
+Github Repo: [Here](https://github.com/GrazeDD/Ruby) and [here](https://github.com/GrazeDD/Ruby/blob/master/Other%20Programs/sudoku_solver.rb)
 
 Information: This was a team project, done between a group of myself and three other people. I wrote most of the internal logic-based code for the generation of valid Sudoku Puzzles, as one of the past programs I had written in Ruby was a Ruby Puzzle solver (Within the same repository in the Other Programs folder as sudoku_solver.rb. The solver was a good implementation of a recursive backtracking algorithm that I had learned about previously in CS421.
 
