@@ -69,7 +69,7 @@ Information: I was given some boilerplate code, a Context-Free Grammar for a lan
 
 ### Personal Project - 2D Rubix Cube
 
-Github Repo: 
+Github Repo: [Here](https://github.com/GrazeDD/Cuber)
 
 Information: In Winter of 2019, I decided that I'd work on a program to implement various Rubix Cube Solving algorithms on a 2D rubix cube object in Java. I went about creating the application, and got a fair amount of work done on it. I have plans to implement progress on a 3D representation of the cube, as well as more sorting algorithms, but for right now, I have something really simple working that allows the user to work with the cube on their own. I'm still actively working on the project, making changes and updating the code pretty frequently.
 
