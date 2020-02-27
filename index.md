@@ -29,8 +29,28 @@ Hello! My name is Carson Smith, and I am a Computer Science student at Boise Sta
 
 ### Projects I've Done:
 
-Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share any of the code I've written for my CS courses. I can, however, list out some of the larger ones I've completed and share a bit about what I've done.
+Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however. 
 
-* CS253 - Smash.c
+* CS354 - Sudoku in Pure Ruby
 
-The page is WIP, so thanks for reading as much as you have!
+Github Repo: https://github.com/GrazeDD/Ruby
+
+Information: This was a team project, done between a group of myself and three other people. I wrote most of the internal logic-based code for the generation of valid Sudoku Puzzles, as one of the past programs I had written in Ruby was a Ruby Puzzle solver (Within the same repository in the Other Programs folder as sudoku_solver.rb.
+
+* CS321 - BTree Project
+
+Github Repo: N/A
+
+Information: This was a team-base implementation of a BTree. 
+
+* CS402 - Japanese/Chinese Character Flashcard iOS App and Other Projects
+
+Github Repo: https://github.com/GrazeDD/CS402-Projects
+
+Information:
+
+* CS421 - Dynamic Programming Implemenation of the 0-1 Knapsack Problem
+
+Github Repo: N/A
+
+Information: We were told to write both a pure-recursion based implementation of the classic [https://en.wikipedia.org/wiki/Knapsack_problem](0-1 Knapsack Problem), as well as a dynamic-programming based implementation. This was my first exposure to the concept of dynamic programming, and I was pretty proud of how it ended up turning out.
