@@ -29,13 +29,19 @@ Hello! My name is Carson Smith, a Senior Computer Science student at Boise State
 
 ## Projects I've Done:
 
-Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however.
+Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however, as well as some of the ones that aren't largely shared.
 
 ### CS321 - BTree Project
 
 Github Repo: N/A
 
-Information: This was a team-base implementation of a BTree. 
+Information: This large-scale project was a full implementation for a BTree in Java. Put simply, this project was the creation of a BTree Data Structure that took in data. In the case of this project, the data was specific strings of DNA sequences that a perspective user would want to search for. The BTree would essentially be the Gene Bank where the full sequence of DNA is stored, and the user would provide queries in the form of a file for determining how many times a given query was found within the Gene Bank. 
+
+### CS253 - Smash.c
+
+Github Repo: N/A
+
+Information: This was an ongoing implementation of a shell written in C. It required support for built-in commands, external commands, I/O redirection, Pipes, and various other features. This was done pretty early on in my CS career, and took a lot of planning and thought about how to go about getting everything to work together properly. Altogether, it's probably one of the largest programs I've ever had to write, and really taught me a lot about C programming, and systems programming.
 
 ### CS402 - Japanese/Chinese Character Drawing iOS App
 
@@ -51,6 +57,18 @@ Information: We were told to write both a pure-recursion and dynamic-programming
 
 ### CS354 - Sudoku Puzzle Solver and GUI in Pure Ruby
 
-Github Repo: https://github.com/GrazeDD/Ruby
+Github Repo: https://github.com/GrazeDD/Ruby and https://github.com/GrazeDD/Ruby/blob/master/Other%20Programs/sudoku_solver.rb
 
 Information: This was a team project, done between a group of myself and three other people. I wrote most of the internal logic-based code for the generation of valid Sudoku Puzzles, as one of the past programs I had written in Ruby was a Ruby Puzzle solver (Within the same repository in the Other Programs folder as sudoku_solver.rb. The solver was a good implementation of a recursive backtracking algorithm that I had learned about previously in CS421.
+
+### CS354 - Java Implementation of a Recursive Decent Parser
+
+Github Repo: N/A
+
+Information: I was given some boilerplate code, a Context-Free Grammar for a language, and a list of requirements that the language needed to support, and was told to implement this as a recursive decent parser in Java. This was a really rough project, and at the end of the day, one of the ones I'm most proud of my implementation of. It was a hefty project that focused on recursion, understanding of how to parse a language into parts, and lots and lots of bug fixing.
+
+### Personal Project - 2D Rubix Cube
+
+Github Repo: 
+
+Information: In Winter of 2019, I decided that I'd work on a program to implement various Rubix Cube Solving algorithms on a 2D rubix cube object in Java. I went about creating the application, and got a fair amount of work done on it. I have plans to implement progress on a 3D representation of the cube, as well as more sorting algorithms, but for right now, I have something really simple working that allows the user to work with the cube on their own. I'm still actively working on the project, making changes and updating the code pretty frequently.
