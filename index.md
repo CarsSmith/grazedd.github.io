@@ -1,29 +1,36 @@
 ## Introduction
 
-Hello! My name is Carson Smith, and I am a Computer Science student at Boise State University. This page will be used to showcase my work throughout my Computer Science career, both within and outside of my school environment.
+Hello! My name is Carson Smith, and I am a Computer Science student at Boise State University who will be graduating after the Summer of 2020. This page is used to outline my educational experience with coding/development, as well as any personal projects I've created over time.
 
 ### CS Classes I've taken so far:
 
 * CS121 - Computer Science I
 * CS221 - Computer Science II
+* CS230 - Ethical Issues in Computing
 * CS253 - Intro to Systems Programming
 * CS321 - Data Structures
+* CS354 - Programming Languages
+* CS401 - Intro to Web Development
+* CS402 - Mobile Application Development
+* CS421 - Algorithms
+* CS471 - Software Engineering
 * CS-HU-153 - Navigating Computer Systems
 * CS-HU-130 - Foundational Values
 * CS-HU-250 - Intro to Version Control
 * CS-HU-271 - Agile Development
 * CS-HU-310 - Intro to Database Systems
 
-### CS Classes I'm currently enrolled in:
+### CS Classes I'm Currently Enrolled In:
 
-* CS421
-* CS230
+* CS361 - Intro to the Theory of Computation
+* CS453 - Operating Systems
+* CS474 - Software Quality
+* CS-HU 398 - Current Topics in Computer Sci
 
-### Things coming up for the future of this page:
+### Projects I've Done:
 
-- [x] Create a GitHub account and Pages.
-- [ ] Upload previous noteworthy school projects to GitHub
-- [ ] Finish the semester with great grades!
-- [ ] Get to work on a personal project over the summer!
+Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share any of the code I've written for my CS courses. I can, however, list out some of the larger ones I've completed and share a bit about what I've done.
+
+* CS253 - Smash.c
 
 The page is WIP, so thanks for reading as much as you have!
