@@ -1,8 +1,8 @@
-## Introduction
+# About Me:
 
 Hello! My name is Carson Smith, a Senior Computer Science student at Boise State University who will be graduating after the Summer of 2020. This page is used to outline my educational experience with coding/development, as well as any personal projects I've created over time.
 
-### CS Classes I've taken so far:
+## CS Classes I've taken so far:
 
 * CS121 - Computer Science I
 * CS221 - Computer Science II
@@ -20,37 +20,37 @@ Hello! My name is Carson Smith, a Senior Computer Science student at Boise State
 * CS-HU-271 - Agile Development
 * CS-HU-310 - Intro to Database Systems
 
-### CS Classes I'm Currently Enrolled In:
+## CS Classes I'm Currently Enrolled In:
 
 * CS361 - Intro to the Theory of Computation
 * CS453 - Operating Systems
 * CS474 - Software Quality
 * CS-HU 398 - Current Topics in Computer Sci
 
-### Projects I've Done:
+## Projects I've Done:
 
-Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however. 
+Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however.
 
-* CS354 - Sudoku in Pure Ruby
-
-Github Repo: https://github.com/GrazeDD/Ruby
-
-Information: This was a team project, done between a group of myself and three other people. I wrote most of the internal logic-based code for the generation of valid Sudoku Puzzles, as one of the past programs I had written in Ruby was a Ruby Puzzle solver (Within the same repository in the Other Programs folder as sudoku_solver.rb.
-
-* CS321 - BTree Project
+### CS321 - BTree Project
 
 Github Repo: N/A
 
 Information: This was a team-base implementation of a BTree. 
 
-* CS402 - Japanese/Chinese Character Drawing iOS App and Other Projects
+### CS402 - Japanese/Chinese Character Drawing iOS App
 
-Github Repo: https://github.com/GrazeDD/CS402-Projects
+Github Repo: https://github.com/GrazeDD/CS402-Projects/tree/master/Final
 
 Information: This was my first time getting experienced with programming in Swift, and I ended up creating something that I thought was pretty cool. The application I made utilized CoreData to store information about various Chinese/Japanese characters, that the user would have to draw on a custom-built implementation of a drawing view. The drawing they did would then be stored in the database, and they could check how much their drawings had improved over time.
 
-* CS421 - Dynamic Programming Implemenation of the 0-1 Knapsack Problem
+### CS421 - Dynamic Programming Implemenation of the 0-1 Knapsack Problem
 
 Github Repo: N/A
 
-Information: We were told to write both a pure-recursion based implementation of the classic [https://en.wikipedia.org/wiki/Knapsack_problem](Knapsack Problem), as well as a dynamic-programming based implementation. This was my first exposure to the concept of dynamic programming, and I was pretty proud of how it ended up turning out.
+Information: We were told to write both a pure-recursion and dynamic-programming implementation of the classic [0-1 Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem). This was my first exposure to the concept of dynamic programming, and I was pretty proud of how it ended up turning out.
+
+### CS354 - Sudoku Puzzle Solver and GUI in Pure Ruby
+
+Github Repo: https://github.com/GrazeDD/Ruby
+
+Information: This was a team project, done between a group of myself and three other people. I wrote most of the internal logic-based code for the generation of valid Sudoku Puzzles, as one of the past programs I had written in Ruby was a Ruby Puzzle solver (Within the same repository in the Other Programs folder as sudoku_solver.rb. The solver was a good implementation of a recursive backtracking algorithm that I had learned about previously in CS421.
