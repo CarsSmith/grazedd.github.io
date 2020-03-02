@@ -4,8 +4,6 @@ Hello! My name is Carson Smith, a Senior Computer Science student at Boise State
 
 ## Personal Projects:
 
-Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however, as well as some of the ones that aren't largely shared.
-
 ### Cuber - 2D Rubix Cube
 
 Github Repo: [Here](https://github.com/GrazeDD/Cuber)
@@ -13,6 +11,8 @@ Github Repo: [Here](https://github.com/GrazeDD/Cuber)
 Information: In Winter of 2019, I decided that I'd work on a program to implement various Rubix Cube Solving algorithms on a 2D rubix cube object in Java. I went about creating the application, and got a fair amount of work done on it. I have plans to implement progress on a 3D representation of the cube, as well as more sorting algorithms, but for right now, I have something really simple working that allows the user to work with the cube on their own. I'm still actively working on the project, making changes and updating the code pretty frequently.
 
 ## School Projects:
+
+Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however, as well as some of the ones that aren't largely shared.
 
 ### CS321 - BTree Project
 
