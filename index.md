@@ -6,17 +6,13 @@ Hello! My name is Carson Smith, a Senior Computer Science student at Boise State
 
 Due to Boise State's policy regarding academic honesty, I'm not allowed to directly share most of the code I've written for my past CS courses. I can share a few of the ones that aren't being used anymore, however, as well as some of the ones that aren't largely shared.
 
-### Personal Project - 2D Rubix Cube
+### Cuber - 2D Rubix Cube
 
 Github Repo: [Here](https://github.com/GrazeDD/Cuber)
 
 Information: In Winter of 2019, I decided that I'd work on a program to implement various Rubix Cube Solving algorithms on a 2D rubix cube object in Java. I went about creating the application, and got a fair amount of work done on it. I have plans to implement progress on a 3D representation of the cube, as well as more sorting algorithms, but for right now, I have something really simple working that allows the user to work with the cube on their own. I'm still actively working on the project, making changes and updating the code pretty frequently.
 
 ## School Projects:
-
-### SLIM Research - ASR/Emotion Detection/Object Detection Python Components with Microsoft Azure
-
-Information: For my work with the research group, I've had to utilize the Microsft Azure API to create Python components that use Microsoft Azure's Automatic Speech Recognition, Object Detection, and Emotion Detection/Analysis tools. I've had to learn a lot about how audio data works, as well as how to work with libraries that have less-than-stellar documentation and information. This was also my first experience with Python, so there was a lot of learning that I had to do there as well.
 
 ### CS321 - BTree Project
 
@@ -53,3 +49,9 @@ Information: This was a team project, done between a group of myself and three o
 Github Repo: N/A
 
 Information: I was given some boilerplate code, a Context-Free Grammar for a language, and a list of requirements that the language needed to support, and was told to implement this as a recursive decent parser in Java. This was a really rough project, and at the end of the day, one of the ones I'm most proud of my implementation of. It was a hefty project that focused on recursion, understanding of how to parse a language into parts, and lots and lots of bug fixing.
+
+## Other Projects
+
+### SLIM Research - ASR/Emotion Detection/Object Detection Python Components with Microsoft Azure
+
+Information: For my work with the research group, I've had to utilize the Microsft Azure API to create Python components that use Microsoft Azure's Automatic Speech Recognition, Object Detection, and Emotion Detection/Analysis tools. I've had to learn a lot about how audio data works, as well as how to work with libraries that have less-than-stellar documentation and information. This was also my first experience with Python, so there was a lot of learning that I had to do there as well.
